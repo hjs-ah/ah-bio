@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle with your brand color (yellow/gold from theme) -->
+  <circle cx="32" cy="32" r="30" fill="#ffe000"/>
+  
+  <!-- Dark background for contrast -->
+  <circle cx="32" cy="32" r="26" fill="#1a1a1a"/>
+  
+  <!-- Your initials in gold -->
+  <text x="32" y="44" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffe000" text-anchor="middle">AH</text>
+</svg>
